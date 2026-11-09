@@ -1,0 +1,5 @@
+{
+    "FH_Enable": " {green}[Fortnite Hits]{default} Показ урона {green}включён{default}.",
+    "FH_Disable": " {green}[Fortnite Hits]{default} Показ урона {red}выключен{default}.",
+    "FH_NotAuthorized": " {green}[Fortnite Hits]{default} Дождитесь авторизации Steam."
+}

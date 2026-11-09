@@ -1,0 +1,5 @@
+{
+    "FH_Enable": " {green}[Fortnite Hits]{default} Damage display {green}enabled{default}.",
+    "FH_Disable": " {green}[Fortnite Hits]{default} Damage display {red}disabled{default}.",
+    "FH_NotAuthorized": " {green}[Fortnite Hits]{default} Please wait for Steam authorization."
+}
