@@ -4,6 +4,10 @@
 Displays damage numbers above the victim in Fortnite style  
 The numbers are visible to the attacker and players spectating them  
 Damage display is enabled by default, each player can disable it with a command and their choice is saved
+The particles for the plugin were created by [kolkazadrot](https://kolkazadrot.ru/)
+
+# Preview
+![Preview](preview.gif)
 
 # Commands
 css_hits - Enable/disable damage display  
